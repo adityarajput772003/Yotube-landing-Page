@@ -19,4 +19,4 @@ This project focuses on layout, UI design, and responsive styling — recreating
 ### ⭐ Homepage Preview  
 (Replace `screenshot.png` with your actual screenshot file name)
 
-![Screenshot](./images/screenshot_youtube_page.png.png)
+![Screenshot](./images/screenshot_youtube_page.png)
