@@ -73,10 +73,12 @@ header {
 .hamburger-menu {
   height: 24px;
   margin: 0 24px;
+  cursor: pointer;
 }
 
 .youtube-logo {
   height: 20px;
+  cursor: pointer;
 }
 
 .centerHeader {
@@ -165,7 +167,7 @@ header {
   height: 40px;
   width: 40px;
   border-radius: 20px;
-
+  cursor: pointer;
   background-color: rgb(248, 248, 248);
   border: none;
   display: flex;
@@ -188,14 +190,17 @@ header {
 
 .upload-icon {
   height: 25px;
+  cursor: pointer;
 }
 
 .youtube-apps-icon {
   height: 25px;
+  cursor: pointer;
 }
 
 .notifications-icon-container {
   position: relative;
+  cursor: pointer;
 }
 
 .notifications-icon-number {
@@ -212,12 +217,15 @@ header {
 
 .notifications-icon {
   height: 25px;
+  cursor: pointer;
 }
 
 .my-channel-icon {
   height: 32px;
   border-radius: 16px;
+  cursor: pointer;
 }
+
 /* video section  style */
 
 .main {
