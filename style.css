@@ -256,6 +256,11 @@ header {
   height: 100%;
 }
 
+.video-link{
+  text-decoration: none;
+  color: black;
+}
+
 .video-time {
   position: absolute;
   bottom: 7px;
